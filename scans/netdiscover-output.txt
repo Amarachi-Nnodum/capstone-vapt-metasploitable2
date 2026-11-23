@@ -1,0 +1,7 @@
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.56.100  08:00:27:fc:df:ad      1      42  PCS Systemtechnik GmbH
+ 192.168.56.101  08:00:27:2a:e5:4d      1      42  PCS Systemtechnik GmbH
+
+-- Active scan completed, 2 Hosts found.
